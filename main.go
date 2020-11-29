@@ -1,7 +1,7 @@
 package main
 import (
 "fmt"
-"./article"
+"github.com/kai-tyro/kai/article"
 )
 
 func main() {
